@@ -18,7 +18,7 @@ Projection is a **headless Ubuntu Server application** (`sdi_cinema_engine.c`) t
 ### Runtime Status
 
 - Fourth-gen cinema timing/output controls integrated
-- DXD-16 preset orchestration integrated (A/B/C frame-rate families)
+- DXD-16 Master Clock preset orchestration integrated (A/B/C frame-rate families)
 - DeckLink Quad-Link 2SI startup enforcement integrated through helper command path
 - Live-stage safety isolation integrated (projector OFF, CP950A muted, curtain/lighting automation suppressed)
 - MQTT ingest subscription integrated (`content/add` add-queue path with response publishing)
